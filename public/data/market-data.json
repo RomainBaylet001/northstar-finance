@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "baseCurrency": "EUR",
   "source": "Yahoo Finance via yfinance; delayed quotes and daily history",
-  "attemptedAt": "2026-10-26T14:30:30+00:00",
+  "attemptedAt": "2026-10-26T20:05:40+00:00",
   "instruments": {
     "yahoo:XETR:VWCE.DE:EUR": {
       "instrument": {
@@ -18,8 +18,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:VWCE.DE:EUR",
         "currency": "EUR",
-        "price": 169.78,
-        "asOf": "2026-10-26T14:15:26+00:00",
+        "price": 170.0,
+        "asOf": "2026-10-26T16:36:07+00:00",
         "type": "delayed"
       },
       "history": [
@@ -2030,9 +2030,13 @@
         [
           "2026-10-23",
           169.3000030517578
+        ],
+        [
+          "2026-10-26",
+          170.0
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -2054,8 +2058,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:VFEA.DE:EUR",
         "currency": "EUR",
-        "price": 74.22,
-        "asOf": "2026-10-26T14:15:14+00:00",
+        "price": 74.55,
+        "asOf": "2026-10-26T16:35:57+00:00",
         "type": "delayed"
       },
       "history": [
@@ -4066,9 +4070,13 @@
         [
           "2026-10-23",
           74.83000183105469
+        ],
+        [
+          "2026-10-26",
+          74.55000305175781
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -4090,8 +4098,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:SXR8.DE:EUR",
         "currency": "EUR",
-        "price": 740.28,
-        "asOf": "2026-10-26T14:13:48+00:00",
+        "price": 740.94,
+        "asOf": "2026-10-26T16:36:02+00:00",
         "type": "delayed"
       },
       "history": [
@@ -6102,9 +6110,13 @@
         [
           "2026-10-23",
           738.0399780273438
+        ],
+        [
+          "2026-10-26",
+          740.9400024414062
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -6126,8 +6138,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:IUSN.DE:EUR",
         "currency": "EUR",
-        "price": 9.097,
-        "asOf": "2026-10-26T14:15:13+00:00",
+        "price": 9.094,
+        "asOf": "2026-10-26T16:36:13+00:00",
         "type": "delayed"
       },
       "history": [
@@ -8138,9 +8150,13 @@
         [
           "2026-10-23",
           9.020000457763672
+        ],
+        [
+          "2026-10-26",
+          9.093999862670898
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -8162,8 +8178,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:FLXI.DE:EUR",
         "currency": "EUR",
-        "price": 34.8,
-        "asOf": "2026-10-26T14:13:31+00:00",
+        "price": 34.665,
+        "asOf": "2026-10-26T16:36:13+00:00",
         "type": "delayed"
       },
       "history": [
@@ -10174,9 +10190,13 @@
         [
           "2026-10-23",
           34.474998474121094
+        ],
+        [
+          "2026-10-26",
+          34.665000915527344
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -10198,8 +10218,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:AAPL:USD",
         "currency": "USD",
-        "price": 345.2961,
-        "asOf": "2026-10-26T14:30:31+00:00",
+        "price": 343.91,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -12200,7 +12220,7 @@
           347.7300109863281
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -12222,8 +12242,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:MSFT:USD",
         "currency": "USD",
-        "price": 527.78,
-        "asOf": "2026-10-26T14:30:31+00:00",
+        "price": 532.6,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -14224,7 +14244,7 @@
           524.510009765625
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -14246,8 +14266,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:NVDA:USD",
         "currency": "USD",
-        "price": 214.84,
-        "asOf": "2026-10-26T14:30:32+00:00",
+        "price": 216.0,
+        "asOf": "2026-10-26T20:00:00+00:00",
         "type": "delayed"
       },
       "history": [
@@ -16248,7 +16268,7 @@
           210.9600067138672
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -16270,8 +16290,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:EUNL.DE:EUR",
         "currency": "EUR",
-        "price": 130.41,
-        "asOf": "2026-10-26T14:14:36+00:00",
+        "price": 130.47,
+        "asOf": "2026-10-26T16:36:05+00:00",
         "type": "delayed"
       },
       "history": [
@@ -18282,9 +18302,13 @@
         [
           "2026-10-23",
           129.83999633789062
+        ],
+        [
+          "2026-10-26",
+          130.47000122070312
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -18306,8 +18330,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:IS3N.DE:EUR",
         "currency": "EUR",
-        "price": 45.065,
-        "asOf": "2026-10-26T14:15:02+00:00",
+        "price": 45.329,
+        "asOf": "2026-10-26T16:36:13+00:00",
         "type": "delayed"
       },
       "history": [
@@ -20318,9 +20342,13 @@
         [
           "2026-10-23",
           45.50699996948242
+        ],
+        [
+          "2026-10-26",
+          45.32899856567383
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -20342,8 +20370,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:SXRV.DE:EUR",
         "currency": "EUR",
-        "price": 1497.6,
-        "asOf": "2026-10-26T14:13:56+00:00",
+        "price": 1505.4,
+        "asOf": "2026-10-26T16:35:48+00:00",
         "type": "delayed"
       },
       "history": [
@@ -22362,9 +22390,13 @@
         [
           "2026-10-23",
           1493.5999755859375
+        ],
+        [
+          "2026-10-26",
+          1505.4000244140625
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -22386,8 +22418,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:IUSQ.DE:EUR",
         "currency": "EUR",
-        "price": 108.82,
-        "asOf": "2026-10-26T14:15:28+00:00",
+        "price": 108.98,
+        "asOf": "2026-10-26T16:35:53+00:00",
         "type": "delayed"
       },
       "history": [
@@ -24398,9 +24430,13 @@
         [
           "2026-10-23",
           108.5
+        ],
+        [
+          "2026-10-26",
+          108.9800033569336
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -24422,8 +24458,8 @@
       "quote": {
         "instrumentId": "yahoo:XETR:VUAA.DE:EUR",
         "currency": "EUR",
-        "price": 132.695,
-        "asOf": "2026-10-26T14:13:02+00:00",
+        "price": 132.885,
+        "asOf": "2026-10-26T16:36:04+00:00",
         "type": "delayed"
       },
       "history": [
@@ -26266,9 +26302,13 @@
         [
           "2026-10-23",
           132.27499389648438
+        ],
+        [
+          "2026-10-26",
+          132.88499450683594
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -26290,8 +26330,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:AMZN:USD",
         "currency": "USD",
-        "price": 250.17,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 249.09,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -28292,7 +28332,7 @@
           248.0
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -28314,8 +28354,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:GOOGL:USD",
         "currency": "USD",
-        "price": 319.92,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 316.8,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -30316,7 +30356,7 @@
           320.2099914550781
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -30338,8 +30378,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:META:USD",
         "currency": "USD",
-        "price": 635.59,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 630.56,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -32340,7 +32380,7 @@
           642.6199951171875
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -32362,8 +32402,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:TSLA:USD",
         "currency": "USD",
-        "price": 394.5201,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 391.62,
+        "asOf": "2026-10-26T20:00:00+00:00",
         "type": "delayed"
       },
       "history": [
@@ -34364,7 +34404,7 @@
           372.2200012207031
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -34386,8 +34426,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:AVGO:USD",
         "currency": "USD",
-        "price": 326.03,
-        "asOf": "2026-10-26T14:30:36+00:00",
+        "price": 329.17,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -36388,7 +36428,7 @@
           321.67999267578125
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -36410,8 +36450,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:AMD:USD",
         "currency": "USD",
-        "price": 517.6448,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 531.28,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -38412,7 +38452,7 @@
           516.7899780273438
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -38434,8 +38474,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:NFLX:USD",
         "currency": "USD",
-        "price": 65.055,
-        "asOf": "2026-10-26T14:30:35+00:00",
+        "price": 63.9,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -40436,7 +40476,7 @@
           65.8499984741211
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -40463,8 +40503,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:COST:USD",
         "currency": "USD",
-        "price": 1011.252,
-        "asOf": "2026-10-26T14:30:33+00:00",
+        "price": 1005.16,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -42465,7 +42505,7 @@
           1003.3200073242188
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -42487,8 +42527,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:ADBE:USD",
         "currency": "USD",
-        "price": 261.09,
-        "asOf": "2026-10-26T14:30:30+00:00",
+        "price": 258.62,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -44489,7 +44529,7 @@
           263.82000732421875
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -44511,8 +44551,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:PEP:USD",
         "currency": "USD",
-        "price": 136.76,
-        "asOf": "2026-10-26T14:30:31+00:00",
+        "price": 135.46,
+        "asOf": "2026-10-26T20:00:00+00:00",
         "type": "delayed"
       },
       "history": [
@@ -46513,7 +46553,7 @@
           135.77000427246094
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -46535,8 +46575,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:CSCO:USD",
         "currency": "USD",
-        "price": 109.05,
-        "asOf": "2026-10-26T14:30:38+00:00",
+        "price": 110.24,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -48537,7 +48577,7 @@
           106.5
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -48559,8 +48599,8 @@
       "quote": {
         "instrumentId": "yahoo:NMS:QCOM:USD",
         "currency": "USD",
-        "price": 177.26,
-        "asOf": "2026-10-26T14:30:38+00:00",
+        "price": 179.6,
+        "asOf": "2026-10-26T20:00:01+00:00",
         "type": "delayed"
       },
       "history": [
@@ -50561,7 +50601,7 @@
           175.91000366210938
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "historySettings": {
         "field": "Close",
         "autoAdjust": false
@@ -50574,8 +50614,8 @@
     "USD": {
       "from": "USD",
       "to": "EUR",
-      "rate": 0.8939,
-      "asOf": "2026-10-26T14:29:43+00:00",
+      "rate": 0.8944,
+      "asOf": "2026-10-26T20:05:45+00:00",
       "type": "delayed",
       "history": [
         [
@@ -52639,7 +52679,7 @@
           0.8911499977111816
         ]
       ],
-      "historyFetchedAt": "2026-10-26T14:30:30+00:00",
+      "historyFetchedAt": "2026-10-26T20:05:40+00:00",
       "warnings": []
     }
   },
