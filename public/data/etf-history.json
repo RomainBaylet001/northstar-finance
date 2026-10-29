@@ -1,7 +1,7 @@
 {
   "source": "Yahoo Finance via yfinance; delayed EUR quotes and completed daily history",
   "currency": "EUR",
-  "updatedAt": "2026-10-28T19:32:43+00:00",
+  "updatedAt": "2026-10-29T14:15:50+00:00",
   "latestDates": {
     "VWCE": "2026-10-28",
     "VFEA": "2026-10-28",
@@ -6178,21 +6178,21 @@
   },
   "quotes": {
     "VWCE": {
-      "price": 171.94,
-      "asOf": "2026-10-28T16:36:04+00:00",
-      "date": "2026-10-28",
+      "price": 171.62,
+      "asOf": "2026-10-29T13:58:04+00:00",
+      "date": "2026-10-29",
       "type": "delayed"
     },
     "VFEA": {
-      "price": 75.21,
-      "asOf": "2026-10-28T16:35:57+00:00",
-      "date": "2026-10-28",
+      "price": 74.66,
+      "asOf": "2026-10-29T13:57:32+00:00",
+      "date": "2026-10-29",
       "type": "delayed"
     },
     "SXR8": {
-      "price": 749.4,
-      "asOf": "2026-10-28T16:35:57+00:00",
-      "date": "2026-10-28",
+      "price": 747.68,
+      "asOf": "2026-10-29T14:00:29+00:00",
+      "date": "2026-10-29",
       "type": "delayed"
     }
   },
@@ -6200,14 +6200,9 @@
     "exchange": "Xetra",
     "session": "Regular session",
     "timezone": "Europe/Berlin",
-    "calendarStart": "2026-10-21",
-    "calendarEnd": "2026-12-27",
+    "calendarStart": "2026-10-22",
+    "calendarEnd": "2026-12-28",
     "sessions": [
-      {
-        "date": "2026-10-21",
-        "open": "2026-10-21T07:00:00+00:00",
-        "close": "2026-10-21T15:30:00+00:00"
-      },
       {
         "date": "2026-10-22",
         "open": "2026-10-22T07:00:00+00:00",
@@ -6432,6 +6427,11 @@
         "date": "2026-12-23",
         "open": "2026-12-23T08:00:00+00:00",
         "close": "2026-12-23T16:30:00+00:00"
+      },
+      {
+        "date": "2026-12-28",
+        "open": "2026-12-28T08:00:00+00:00",
+        "close": "2026-12-28T16:30:00+00:00"
       }
     ]
   },
